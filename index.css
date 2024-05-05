@@ -19,6 +19,10 @@ body {
   
 
 }
+@media (max-width:1200px) {
+ 
+}
+
 
 .relogio {
   display: flex;
