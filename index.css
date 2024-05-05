@@ -9,20 +9,19 @@
 
 body {
   height: 100vh;
-  background-image: url(https://images.unsplash.com/photo-1515825838458-f2a94b20105a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTcxNDg0MzY3Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600);
+  background-image: url(https://images.unsplash.com/photo-1714675166149-bc60579792cb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   align-items: center;
   display: flex;
   justify-content: center;
-  background-size: cover;
   backdrop-filter: initial;
   justify-content: center;
-  background-size: 100% 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  
+  background-position: center;
 
 }
 @media (max-width:1200px) {
- 
+
 }
 
 
