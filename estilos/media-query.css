@@ -1,0 +1,17 @@
+@charset "UTF 8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* AQUI É VERSÃO TABLET */
+@media screen and (max-width:768px) {
+       .relogio{
+        width: 80%;
+        height: 70%;
+     
+       }
+      
+       
+}
