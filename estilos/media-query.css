@@ -10,8 +10,17 @@
        .relogio{
         width: 80%;
         height: 70%;
-     
+    
        }
-      
+       .relogio > section{
+        border-radius:50%;
+        margin: auto;
+        
+        
+       }
+       #Horas, #Minutos, #Segundos{
+      margin-top: 10px;
+      padding: 10px;
+       }
        
-}
+    }
